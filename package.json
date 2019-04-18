@@ -1,0 +1,32 @@
+{
+  "name": "in-china",
+  "version": "1.0.0",
+  "description": "Detect current network is in mainland China which cannot fully access to Internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Colin6618/in-china.git"
+  },
+  "keywords": [
+      "in",
+      "China",
+      "location",
+      "mainland",
+      "gfw",
+      "Great",
+      "Firewall"
+  ],
+  "author": "Colin6618",
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/Colin6618/in-china/issues"
+  },
+  "homepage": "https://github.com/Colin6618/in-china#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
